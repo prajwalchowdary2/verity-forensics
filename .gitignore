@@ -1,0 +1,14 @@
+# Logs and runtime databases
+*.log
+live_evidence.json
+_temp_forensic_extract/
+__pycache__/
+
+# Local test databases and locks
+*.db
+test_edge_copy
+LOCK
+
+# OS files
+.DS_Store
+Thumbs.db
